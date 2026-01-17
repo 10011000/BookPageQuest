@@ -17,7 +17,7 @@
     - **前端**：React (Vite) + Tailwind CSS
     - **后端**：Node.js + Express.js
     - **智能合约**：Solidity + Hardhat
-    - **模型**：智普API/本地部署Qwen2.5
+    - **智能体**：智谱GLM-4+RAG架构+Function Calling
 - **网络结构**：采用去中心化应用（DApp）的标准结构。前端应用通过Ethers.js等库与部署在区块链上的智能合约直接交互，完成代币奖励分发、NFT成就记录等核心逻辑。
 - **共识机制**：依赖于目标公链的共识机制
 
